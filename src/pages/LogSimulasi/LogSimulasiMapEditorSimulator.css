@@ -1,0 +1,10 @@
+#map-container {
+    /* position: relative; */
+    padding: 2vh;
+  }
+  
+  #map-simulator {
+    height: 370px;
+    width: 100%;
+  }
+  

@@ -1,0 +1,10 @@
+#map-container {
+    /* position: relative; */
+    padding: 2vh;
+  }
+  
+  #map-gis {
+    height: 300px;
+    width: 100%;
+  }
+  

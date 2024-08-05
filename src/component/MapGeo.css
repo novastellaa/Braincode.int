@@ -1,0 +1,12 @@
+#map-container-history  {
+    /* position: relative; */
+   
+    padding-top: 15px;
+
+  }
+  
+  #map-history {
+    height: 700px;
+    width: 100%;
+  }
+  

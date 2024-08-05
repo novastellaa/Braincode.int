@@ -1,0 +1,83 @@
+.stepper-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .step-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .step-icon {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .step-icon.completed {
+    background-color: green;
+    color: white;
+  }
+  
+  .step-line {
+    width: 2px;
+    height: 50px;
+    background-color: black;
+    border-left: 2px dashed black;
+    transition: background-color 0.3s ease;
+  }
+  
+  .step-line.completed {
+    background-color: green;
+    border-left: 2px solid green;
+  }
+  
+
+  .fl{
+    border: 1px solid #9b76ab;
+    border-radius: 20.17px;
+    color: white;
+    background: #251c3d;
+  }
+
+  .flc{
+    border: 1px solid #9b76ab;
+    border-radius: 7.17px;
+    color: white;
+    background: #251c3d;
+  }
+
+  .btstaty-lsct{
+    background: #9BEC00 !important;
+    font-family: 'jaldiBold';
+    width: 10.5vw;
+    height: 35px;
+    border-radius: 3px;
+  }
+
+  .dct{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  }
+
+  .dctl{
+    text-align: left;
+    justify-content: left;
+    display: flex;
+  }
+
+  .dctr{
+    text-align: end;
+    justify-content: end;
+    display: flex;
+  }

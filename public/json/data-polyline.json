@@ -1,0 +1,100 @@
+[
+  { 
+    "type": "from",
+    "line": "Selat Sunda",
+    "length": "310 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Sunda",
+    "length": "310 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Lombok",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Lombok",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Makassar",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Makassar",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Malaka",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Malaka",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Karimata",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Karimata",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Madura",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Madura",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "from",
+    "line": "Selat Sape",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  },
+  { 
+    "type": "to",
+    "line": "Selat Sape",
+    "length": "312 km",
+    "latitude": "3° 18' 20.8\" S (-3.30578°)",
+    "longitude": "117° 53' 28.4\" E (117.89121°)"
+  }
+]

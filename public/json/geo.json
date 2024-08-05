@@ -1,0 +1,3848 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "sea": "Natuna",
+        "place": "Tg. Berakit",
+        "titik_dasar": "Titik Dasar No. TD.001",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.001",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.001-TD.001A = 19.19 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.57555555555555,
+          1.2408333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "sea": "Natuna",
+        "place": "P. Sentut",
+        "titik_dasar": "Titik Dasar No. TD.001A",
+        "no": "No. 430, 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.001A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.001A-TD.022 = 88.06 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.83055555555555,
+          1.047777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "sea": "Natuna",
+        "place": "P.Tokong Malang Biru",
+        "titik_dasar": "Titik Dasar No. TD.022",
+        "no": "No. 430",
+        "pilar_pendekat": "Pilar Pendekat No. TR.022",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.022-TD.023 = 29.50 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.59638888888888,
+          2.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "sea": "Natuna",
+        "place": "P. Damar",
+        "titik_dasar": "Titik Dasar No. TD.023",
+        "no": "No. 423",
+        "pilar_pendekat": "Pilar Pendekat No. TR.023",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.023-TD.024 = 24.34 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.37944444444443,
+          2.741388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "sea": "Natuna",
+        "place": "P. Mangkai",
+        "titik_dasar": "Titik Dasar No. TD.024",
+        "no": "No. 423",
+        "pilar_pendekat": "Pilar Pendekat No. TR.024",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.024-TD.025 = 26.28 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.58333333333333,
+          3.0922222222222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "sea": "Natuna",
+        "place": "P. Tokong Nanas",
+        "titik_dasar": "Titik Dasar No. TD.025",
+        "no": "No. 423",
+        "pilar_pendekat": "Pilar Pendekat No. TR.025",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.025-TD.026 = 20.35 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95111111111112,
+          3.331111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "sea": "Natuna",
+        "place": "P. Tokongbelayar",
+        "titik_dasar": "Titik Dasar No. TD.026",
+        "no": "No. 423",
+        "pilar_pendekat": "Pilar Pendekat No. TR.026",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.026-TD.028 = 79.03 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26888888888888,
+          3.4511111111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "sea": "Natuna",
+        "place": "P. Tokongboro",
+        "titik_dasar": "Titik Dasar No. TD.028",
+        "no": "No. 422",
+        "pilar_pendekat": "Pilar Pendekat No. TR.028",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.028-TD.029 = 32.06 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.43583333333333,
+          4.066944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "sea": "Natuna",
+        "place": "P. Semiun",
+        "titik_dasar": "Titik Dasar No. TD.029",
+        "no": "No. 421, 422",
+        "pilar_pendekat": "Pilar Pendekat No. TR.029",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.029-TD.030A = 15.76 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7213888888889,
+          4.519166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "sea": "Cina Selatan",
+        "place": "P. Sebetul",
+        "titik_dasar": "Titik Dasar No. TD.030A",
+        "no": "No. 421",
+        "pilar_pendekat": "Pilar Pendekat No. TR.030A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.030A-TD.030B = 8.18 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.90555555555557,
+          4.706944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "sea": "Cina Selatan",
+        "place": "P. Sekatung",
+        "titik_dasar": "Titik Dasar No. TD.030B",
+        "no": "No. 421",
+        "pilar_pendekat": "Pilar Pendekat No. TR.030A",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.030B-TD.030D",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.01083333333334,
+          4.793888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "sea": "Cina Selatan",
+        "place": "P. Sekatung",
+        "titik_dasar": "Titik Dasar No. TD.030D",
+        "no": "No. 421",
+        "pilar_pendekat": "Pilar Pendekat No. TR.030",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.030D-TD.031 = 52.58 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.02194444444444,
+          4.795833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "sea": "Cina Selatan",
+        "place": "P. Senua",
+        "titik_dasar": "Titik Dasar No. TD.031",
+        "no": "No. 421",
+        "pilar_pendekat": "Pilar Pendekat No. TR.031",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.031-TD.032 = 66.03 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.41777777777779,
+          4.013333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "sea": "Natuna",
+        "place": "P. Subi Kecil",
+        "titik_dasar": "Titik Dasar No. TD.032",
+        "no": "No. 420",
+        "pilar_pendekat": "Pilar Pendekat No. TR.032",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.032-TD.033 = 27.67 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.91444444444446,
+          3.0308333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "sea": "Natuna",
+        "place": "P. Kepala",
+        "titik_dasar": "Titik Dasar No. TD.033",
+        "no": "No. 420",
+        "pilar_pendekat": "Pilar Pendekat No. TR.033",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.033-TD.035 = 44.10 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.16777777777779,
+          2.645277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "sea": "Natuna",
+        "place": "Tg. Datu",
+        "titik_dasar": "Titik Dasar No. TD.035",
+        "no": "No. 420",
+        "pilar_pendekat": "Pilar Pendekat No. TR.035",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.035 -TD.036C",
+        "garis_pangkal": "Kalimantan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.64527777777778,
+          2.0861111111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "sea": "Sulawesi",
+        "place": "P. Ligitan",
+        "titik_dasar": "Titik Dasar No. TD.036C",
+        "no": "No. 489",
+        "pilar_pendekat": "Pilar Pendekat No. TR.036C",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.036C-TD.036B",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.89722222222223,
+          4.166666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "sea": "Sulawesi",
+        "place": "P. Ligitan",
+        "titik_dasar": "Titik Dasar No. TD.036B",
+        "no": "No. 489",
+        "pilar_pendekat": "Pilar Pendekat No. TR.036B",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.036B-TD.036A = 15.06 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.88361111111112,
+          4.134166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "sea": "Sulawesi",
+        "place": "P. Sipadan",
+        "titik_dasar": "Titik Dasar No. TD.036A",
+        "no": "No. 489",
+        "pilar_pendekat": "Pilar Pendekat No. TR.036A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.036A-TD.037 = 59.25 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.63388888888889,
+          4.103333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "sea": "Sulawesi",
+        "place": "Tg. Arang",
+        "titik_dasar": "Titik Dasar No. TD.037",
+        "no": "No. 489",
+        "pilar_pendekat": "Pilar Pendekat No. TR.037",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.037-TD.039 = 86.04 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.87805555555555,
+          3.4658333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "sea": "Sulawesi",
+        "place": "P. Maratua",
+        "titik_dasar": "Titik Dasar No. TD.039",
+        "no": "No. 488",
+        "pilar_pendekat": "Pilar Pendekat No. TR.039",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.039-TD.040 = 36.95 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.64472222222223,
+          2.2533333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "22",
+        "sea": "Sulawesi",
+        "place": "P. Sambit",
+        "titik_dasar": "Titik Dasar No. TD.040",
+        "no": "No. 488",
+        "pilar_pendekat": "Pilar Pendekat No. TR.040",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.040-TD.043 = 84.61 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.04055555555556,
+          1.781388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "sea": "Sulawesi",
+        "place": "P. Lingian",
+        "titik_dasar": "Titik Dasar No. TD.043",
+        "no": "No. 487",
+        "pilar_pendekat": "Pilar Pendekat No. TR.043",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.043-TD.044 = 40.21 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21388888888889,
+          0.998611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "sea": "Sulawesi",
+        "place": "P-P. Salando",
+        "titik_dasar": "Titik Dasar No. TD.044",
+        "no": "No. 487",
+        "pilar_pendekat": "Pilar Pendekat No. TR.044",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.044-TD.044A = 6.05 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79194444444444,
+          1.3377777777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "sea": "Sulawesi",
+        "place": "P. Dolangan",
+        "titik_dasar": "Titik Dasar No. TD.044A",
+        "no": "No. 486, 487",
+        "pilar_pendekat": "Pilar Pendekat No. TR.044A",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.044A-TD.044B",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88444444444445,
+          1.3777777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26",
+        "sea": "Sulawesi",
+        "place": "P. Dolangan",
+        "titik_dasar": "Titik Dasar No. TD.044B",
+        "no": "No. 486, 487",
+        "pilar_pendekat": "Pilar Pendekat No. TR.044A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.044B-TD.045 = 33.70 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88527777777779,
+          1.3780555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "sea": "Sulawesi",
+        "place": "Tg. Kramat",
+        "titik_dasar": "Titik Dasar No. TD.045",
+        "no": "No. 486",
+        "pilar_pendekat": "Pilar Pendekat No. TR.045",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.045-TD.046A = 60.10 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44333333333334,
+          1.3133333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28",
+        "sea": "Sulawesi",
+        "place": "Kr. Boliogut",
+        "titik_dasar": "Titik Dasar No. TD.046A",
+        "no": "No. 486",
+        "pilar_pendekat": "Pilar Pendekat No. TR.046A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.046A-TD.047 = 41.32 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.42972222222222,
+          1.1380555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "sea": "Sulawesi",
+        "place": "P. Bangkit",
+        "titik_dasar": "Titik Dasar No. TD.047",
+        "no": "No. 485",
+        "pilar_pendekat": "Pilar Pendekat No. TR.047",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.047-TD.048 = 74.17 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1125,
+          1.047777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30",
+        "sea": "Sulawesi",
+        "place": "Laimpangi",
+        "titik_dasar": "Titik Dasar No. TD.048",
+        "no": "No. 485",
+        "pilar_pendekat": "Pilar Pendekat No. TR.048",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.048-TD.049A = 43.09 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.34388888888888,
+          1.1580555555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31",
+        "sea": "Sulawesi",
+        "place": "Manterawu",
+        "titik_dasar": "Titik Dasar No. TD.049A",
+        "no": "No. 484",
+        "pilar_pendekat": "Pilar Pendekat No. TR.049A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.049A-TD.051A = 63.82 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.73083333333334,
+          1.7630555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "32",
+        "sea": "Sulawesi",
+        "place": "Makalehi",
+        "titik_dasar": "Titik Dasar No. TD.051A",
+        "no": "No. 484",
+        "pilar_pendekat": "Pilar Pendekat No. TR.051",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.051A-TD.053A = 90.35 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.15777777777778,
+          2.7375000000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "sea": "Sulawesi",
+        "place": "Kawalusu",
+        "titik_dasar": "Titik Dasar No. TD.053A",
+        "no": "No. 483",
+        "pilar_pendekat": "Pilar Pendekat No. TR.053",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.053A-TD.054 = 27.01 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31638888888888,
+          4.235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "sea": "Mindanau",
+        "place": "P. Kawio",
+        "titik_dasar": "Titik Dasar No. TD.054",
+        "no": "No. 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.054",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.054-TD.055 = 4.98 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42805555555556,
+          4.671111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35",
+        "sea": "Mindanau",
+        "place": "P. Marore",
+        "titik_dasar": "Titik Dasar No. TD.055",
+        "no": "No. 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.055",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.055-TD.055A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47833333333334,
+          4.737222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36",
+        "sea": "Mindanau",
+        "place": "P. Marore",
+        "titik_dasar": "Titik Dasar No. TD.055A",
+        "no": "No. 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.055",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.055A-TD.055B = 0.58 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48222222222222,
+          4.740277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "sea": "Mindanau",
+        "place": "P. Batubawaikang",
+        "titik_dasar": "Titik Dasar No. TD.055B",
+        "no": "No. 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.055",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.055B-TD.056 = 81.75 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49,
+          4.746111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "sea": "Philipina",
+        "place": "P. Miangas",
+        "titik_dasar": "Titik Dasar No. TD.056",
+        "no": "No. 481, 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.056",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.056-TD.056A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58166666666666,
+          5.567222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "sea": "Philipina",
+        "place": "P. Miangas",
+        "titik_dasar": "Titik Dasar No. TD.056A",
+        "no": "No. 481, 482",
+        "pilar_pendekat": "Pilar Pendekat No. TR.056",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.056A-TD.057A = 57.91 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59138888888889,
+          5.565833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "sea": "Philipina",
+        "place": "P. Marampit",
+        "titik_dasar": "Titik Dasar No. TD.057A",
+        "no": "No. 481",
+        "pilar_pendekat": "Pilar Pendekat No. TR.057",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.057A-TD.057",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14222222222223,
+          4.7716666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41",
+        "sea": "Philipina",
+        "place": "P. Marampit",
+        "titik_dasar": "Titik Dasar No. TD.057",
+        "no": "No. 481",
+        "pilar_pendekat": "Pilar Pendekat No. TR.057",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.057-TD.058A = 7.10 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14555555555556,
+          4.760833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "sea": "Philipina",
+        "place": "P. Intata",
+        "titik_dasar": "Titik Dasar No. TD.058A",
+        "no": "No. 481",
+        "pilar_pendekat": "Pilar Pendekat No. TR.058A",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.058A-TD.058",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.16361111111112,
+          4.643888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "sea": "Philipina",
+        "place": "P. Kakarutan",
+        "titik_dasar": "Titik Dasar No. TD.058",
+        "no": "No. 481",
+        "pilar_pendekat": "Pilar Pendekat No. TR.058",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.058-TD.059 = 55.63 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.16472222222222,
+          4.626666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44",
+        "sea": "Halmahera",
+        "place": "Tg. Tampida",
+        "titik_dasar": "Titik Dasar No. TD.059",
+        "no": "No. 480",
+        "pilar_pendekat": "Pilar Pendekat No. TR.059",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.059-TD.060 = 122.75 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.85166666666666,
+          3.7536111111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "sea": "Halmahera",
+        "place": "Tg. Sopi",
+        "titik_dasar": "Titik Dasar No. TD.060",
+        "no": "No. 479",
+        "pilar_pendekat": "Pilar Pendekat No. TR.060",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.060-TD.061A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.57416666666666,
+          2.6455555555555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46",
+        "sea": "Halmahera",
+        "place": "Tg. Gorua",
+        "titik_dasar": "Titik Dasar No. TD.061A",
+        "no": "No. 479",
+        "pilar_pendekat": "Pilar Pendekat No. TR.061",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.061A-TD.062 = 50.97 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.69916666666668,
+          2.4274999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47",
+        "sea": "Halmahera",
+        "place": "Tg.Lelai",
+        "titik_dasar": "Titik Dasar No. TD.062",
+        "no": "No. 479",
+        "pilar_pendekat": "Pilar Pendekat No. TR.062",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.062-TD.063 = 56.55 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.73722222222221,
+          1.5788888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "48",
+        "sea": "Halmahera",
+        "place": "P. Jiew",
+        "titik_dasar": "Titik Dasar No. TD.063",
+        "no": "No. 478",
+        "pilar_pendekat": "Pilar Pendekat No. TR.063",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.063-TD.065 = 96.05 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.14166666666665,
+          0.7275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49",
+        "sea": "Pasifik",
+        "place": "P. Budd",
+        "titik_dasar": "Titik Dasar No. TD.065",
+        "no": "No. 477",
+        "pilar_pendekat": "Pilar Pendekat No. TR.065",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.065-TD.066 = 45.91 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.73111111111112,
+          0.5355555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50",
+        "sea": "Pasifik",
+        "place": "P. Fani",
+        "titik_dasar": "Titik Dasar No. TD.066",
+        "no": "No. 477",
+        "pilar_pendekat": "Pilar Pendekat No. TR.066",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.066-TD.066A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.25972222222222,
+          1.0888888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "sea": "Pasifik",
+        "place": "P. Fani",
+        "titik_dasar": "Titik Dasar No. TD.066A",
+        "no": "No. 477",
+        "pilar_pendekat": "Pilar Pendekat No. TR.066",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.066A-TD.070 = 99.81 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2802777777778,
+          1.0744444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "sea": "Pasifik",
+        "place": "P. Miossu",
+        "titik_dasar": "Titik Dasar No. TD.070",
+        "no": "No. 476",
+        "pilar_pendekat": "Pilar Pendekat No. TR.070",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.070-TD.070A = 15.77 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.15944444444446,
+          -0.33777777777777773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "sea": "Pasifik",
+        "place": "Tg. Yamursba",
+        "titik_dasar": "Titik Dasar No. TD.070A",
+        "no": "No. 476",
+        "pilar_pendekat": "Pilar Pendekat No. TR.070A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.070A-TD.071 = 17.72 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.42222222222222,
+          -0.34277777777777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "sea": "Pasifik",
+        "place": "Tg. Wasio",
+        "titik_dasar": "Titik Dasar No. TD.071",
+        "no": "No. 476",
+        "pilar_pendekat": "Pilar Pendekat No. TR.071",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.071-TD.072 = 122.74 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.71694444444444,
+          -0.36166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "sea": "Pasifik",
+        "place": "P. Fanildo",
+        "titik_dasar": "Titik Dasar No. TD.072",
+        "no": "No. 475",
+        "pilar_pendekat": "Pilar Pendekat No. TR.072",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.072-TD.072A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.29555555555555,
+          0.9394444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "sea": "Pasifik",
+        "place": "P. Bras",
+        "titik_dasar": "Titik Dasar No. TD.072A",
+        "no": "No. 475",
+        "pilar_pendekat": "Pilar Pendekat No. TR.072",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.072A-TD.074 = 97.28 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.34166666666667,
+          0.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
+        "sea": "Pasifik",
+        "place": "P. Bepondi",
+        "titik_dasar": "Titik Dasar No. TD.074",
+        "no": "No. 474",
+        "pilar_pendekat": "Pilar Pendekat No. TR.074",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.074-TD.076B = 39.41 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.27416666666667,
+          -0.3938888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58",
+        "sea": "Pasifik",
+        "place": "Tg. Wasanbari",
+        "titik_dasar": "Titik Dasar No. TD.076B",
+        "no": "No. 474",
+        "pilar_pendekat": "Pilar Pendekat No. TR.077",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.076B-TD.077 = 38.90 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.85583333333332,
+          -0.6988888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "sea": "Pasifik",
+        "place": "Tg. Basari",
+        "titik_dasar": "Titik Dasar No. TD.077",
+        "no": "No. 473",
+        "pilar_pendekat": "Pilar Pendekat No. TR.077",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.077-TD.078 = 95.45 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.38722222222222,
+          -1.0702777777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60",
+        "sea": "Pasifik",
+        "place": "Tg. Narwaku",
+        "titik_dasar": "Titik Dasar No. TD.078",
+        "no": "No. 472",
+        "pilar_pendekat": "Pilar Pendekat No. TR.078",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.078-TD.079 = 47.61 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9308333333333,
+          -1.456388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61",
+        "sea": "Pasifik",
+        "place": "P. Liki",
+        "titik_dasar": "Titik Dasar No. TD.079",
+        "no": "No. 472",
+        "pilar_pendekat": "Pilar Pendekat No. TR.079",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.079-TD.080 = 97.06 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.71583333333334,
+          -1.573888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "sea": "Pasifik",
+        "place": "Tg. Kamdara",
+        "titik_dasar": "Titik Dasar No. TD.080",
+        "no": "No. 471",
+        "pilar_pendekat": "Pilar Pendekat No. TR.080",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.080-TD.080A = 28.56 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15194444444444,
+          -2.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "sea": "Pasifik",
+        "place": "Tg. Kelapa",
+        "titik_dasar": "Titik Dasar No. TD.080A",
+        "no": "No. 471",
+        "pilar_pendekat": "Pilar Pendekat No. TR.080A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.080A-TD.081 = 25.22 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.61305555555555,
+          -2.4394444444444447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "sea": "Pasifik",
+        "place": "Tg. Oinake",
+        "titik_dasar": "Titik Dasar No. TD.081",
+        "no": "No. 471",
+        "pilar_pendekat": "Pilar Pendekat No. TR.081",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.081-TD.082",
+        "garis_pangkal": "Irian Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0,
+          -2.6044444444444443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "sea": "Arafuru",
+        "place": "S. Torasi",
+        "titik_dasar": "Titik Dasar No. TD.082",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.082",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.082-TD.082A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.01944444444445,
+          -9.127777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66",
+        "sea": "Arafuru",
+        "place": "S. Torasi",
+        "titik_dasar": "Titik Dasar No. TD.082A",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.082",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.082A-TD.082B",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.98527777777775,
+          -9.181388888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "67",
+        "sea": "Arafuru",
+        "place": "S. Torasi",
+        "titik_dasar": "Titik Dasar No. TD.082B",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.082",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.082B-TD.082C",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.95749999999998,
+          -9.20361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68",
+        "sea": "Arafuru",
+        "place": "S. Torasi",
+        "titik_dasar": "Titik Dasar No. TD.082C",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.082",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.082C-TD.083",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.93555555555557,
+          -9.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "69",
+        "sea": "Arafuru",
+        "place": "S. Blatar",
+        "titik_dasar": "Titik Dasar No. TD.083",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.083",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.083-TD.085 = 97.35 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.84944444444446,
+          -9.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70",
+        "sea": "Arafuru",
+        "place": "Kr. Sametinke",
+        "titik_dasar": "Titik Dasar No. TD.085",
+        "no": "No. 470",
+        "pilar_pendekat": "Pilar Pendekat No. TR.085",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.085-TD.086 = 33.00 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4363888888889,
+          -8.269722222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "71",
+        "sea": "Arafuru",
+        "place": "Ug. Komoran",
+        "titik_dasar": "Titik Dasar No. TD.086",
+        "no": "No. 469",
+        "pilar_pendekat": "Pilar Pendekat No. TR.086",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.086-TD.088A = 74.11 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9063888888889,
+          -8.435833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "72",
+        "sea": "Aru",
+        "place": "Ug. Salah",
+        "titik_dasar": "Titik Dasar No. TD.088A",
+        "no": "No. 469",
+        "pilar_pendekat": "Pilar Pendekat No. TR.088",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.088A-TD.088E",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6577777777778,
+          -8.445555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73",
+        "sea": "Aru",
+        "place": "P. Kolepon",
+        "titik_dasar": "Titik Dasar No. TD.088E",
+        "no": "No. 469",
+        "pilar_pendekat": "Pilar Pendekat No. TR.088",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.088E-TD.088F = 25.15 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.69,
+          -8.21361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "74",
+        "sea": "Aru",
+        "place": "S. Korima",
+        "titik_dasar": "Titik Dasar No. TD.088F",
+        "no": "No. 469",
+        "pilar_pendekat": "Pilar Pendekat No. TR.088",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.088F-TD.090 = 93.90 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.84722222222223,
+          -7.8244444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "sea": "Aru",
+        "place": "S. Cook",
+        "titik_dasar": "Titik Dasar No. TD.090",
+        "no": "No. 468",
+        "pilar_pendekat": "Pilar Pendekat No. TR.090",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.090-TD.091 = 30.63 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.3997222222222,
+          -6.35861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "sea": "Aru",
+        "place": "Gosong Triton",
+        "titik_dasar": "Titik Dasar No. TD.091",
+        "no": "No. 467, 468",
+        "pilar_pendekat": "Pilar Pendekat No. TR.091",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.091-TD.092 = 40.83 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.05611111111114,
+          -5.979166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "sea": "Aru",
+        "place": "P. Laag",
+        "titik_dasar": "Titik Dasar No. TD.092",
+        "no": "No. 467",
+        "pilar_pendekat": "Pilar Pendekat No. TR.092",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.092-TD.093 = 64.15 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7186111111111,
+          -5.387222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78",
+        "sea": "Aru",
+        "place": "Tg. Pohonbatu",
+        "titik_dasar": "Titik Dasar No. TD.093",
+        "no": "No. 467",
+        "pilar_pendekat": "Pilar Pendekat No. TR.093",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.093-TD.094 = 41.32 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.75972222222222,
+          -4.906666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "sea": "Aru",
+        "place": "Amarapya",
+        "titik_dasar": "Titik Dasar No. TD.094",
+        "no": "No. 466",
+        "pilar_pendekat": "Pilar Pendekat No. TR.094",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.094-TD.097A = 96.49 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12055555555557,
+          -4.644722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "sea": "Aru",
+        "place": "P. Ararkula",
+        "titik_dasar": "Titik Dasar No. TD.097A",
+        "no": "No. 466",
+        "pilar_pendekat": "Pilar Pendekat No. TR.097",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.097A-TD.098 = 25.02 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.81805555555556,
+          -5.595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "sea": "Aru",
+        "place": "P. Karaweira Br",
+        "titik_dasar": "Titik Dasar No. TD.098",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.098",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.098-TD.099 = 19.29 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.90722222222223,
+          -6.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "82",
+        "sea": "Aru",
+        "place": "P. Panambulai",
+        "titik_dasar": "Titik Dasar No. TD.099",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.099",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.099-TD.099A = 19.95 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.91472222222222,
+          -6.323888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83",
+        "sea": "Aru",
+        "place": "P. Kultubai Utara",
+        "titik_dasar": "Titik Dasar No. TD.099A",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.099",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.099A-TD.100 = 11.45 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.83666666666667,
+          -6.647222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "84",
+        "sea": "Aru",
+        "place": "P. Kultubai Selatan",
+        "titik_dasar": "Titik Dasar No. TD.100",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.100",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.100-TD.100A = 12.62 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.78722222222223,
+          -6.831666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "85",
+        "sea": "Aru",
+        "place": "P. Karang",
+        "titik_dasar": "Titik Dasar No. TD.100A",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.100A",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.100A-TD.100B",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.69055555555556,
+          -7.018888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "86",
+        "sea": "Aru",
+        "place": "P. Karang",
+        "titik_dasar": "Titik Dasar No. TD.100B",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.100B",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.100B-TD.101 = 10.25 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6772222222222,
+          -7.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "87",
+        "sea": "Aru",
+        "place": "P. Enu",
+        "titik_dasar": "Titik Dasar No. TD.101",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.100B",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.101-TD.101A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.52194444444447,
+          -7.103888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "88",
+        "sea": "Aru",
+        "place": "P. Enu",
+        "titik_dasar": "Titik Dasar No. TD.101A",
+        "no": "No. 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.100B",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.101A-TD.102 = 18.54 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.47166666666666,
+          -7.089722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "89",
+        "sea": "Aru",
+        "place": "P. Batugoyang",
+        "titik_dasar": "Titik Dasar No. TD.102",
+        "no": "No. 464, 465",
+        "pilar_pendekat": "Pilar Pendekat No. TR.102",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.102-TD.103 = 98.34 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1938888888889,
+          -6.950277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90",
+        "sea": "Aru",
+        "place": "Tg. Weduar",
+        "titik_dasar": "Titik Dasar No. TD.103",
+        "no": "No. 464",
+        "pilar_pendekat": "Pilar Pendekat No. TR.103",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.103-TD.104 = 90.19 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.845,
+          -6.006944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "91",
+        "sea": "Aru",
+        "place": "P. Larat",
+        "titik_dasar": "Titik Dasar No. TD.104",
+        "no": "No. 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.104",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.104-TD.105B = 29.55 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9802777777778,
+          -7.240555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "92",
+        "sea": "Aru",
+        "place": "Karang Sarikilmasa",
+        "titik_dasar": "Titik Dasar No. TD.105B",
+        "no": "No. 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.104",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.105B-TD.105 = 34.38 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.72583333333333,
+          -7.663611111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "93",
+        "sea": "Timor",
+        "place": "P. Asutubun",
+        "titik_dasar": "Titik Dasar No. TD.105",
+        "no": "No. 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.105",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.105-TD.105C",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.30055555555558,
+          -8.051944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "94",
+        "sea": "Timor",
+        "place": "P. Asutubun",
+        "titik_dasar": "Titik Dasar No. TD.105C",
+        "no": "No. 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.105",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.105C-TD.106 = 11.26 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.28194444444446,
+          -8.065833333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "95",
+        "sea": "Timor",
+        "place": "P. Selaru Timur",
+        "titik_dasar": "Titik Dasar No. TD.106",
+        "no": "No. 462, 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.106",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.106-TD.106A = 16.24 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1252777777778,
+          -8.171388888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "96",
+        "sea": "Timor",
+        "place": "P. Selaru Barat",
+        "titik_dasar": "Titik Dasar No. TD.106A",
+        "no": "No. 462, 463",
+        "pilar_pendekat": "Pilar Pendekat No. TR.106",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.106A-TD.107 = 4.52 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.88888888888889,
+          -8.307500000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "97",
+        "sea": "Timor",
+        "place": "P. Batarkusu",
+        "titik_dasar": "Titik Dasar No. TD.107",
+        "no": "No. 462",
+        "pilar_pendekat": "Pilar Pendekat No. TR.107",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.107-TD.107A = 0.51 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8211111111111,
+          -8.341666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "98",
+        "sea": "Timor",
+        "place": "Fursey",
+        "titik_dasar": "Titik Dasar No. TD.107A",
+        "no": "No. 462",
+        "pilar_pendekat": "Pilar Pendekat No. TR.107",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.107A-TD.107C",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.81305555555556,
+          -8.344722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "99",
+        "sea": "Timor",
+        "place": "Tg. Arousu",
+        "titik_dasar": "Titik Dasar No. TD.107C",
+        "no": "No. 462",
+        "pilar_pendekat": "Pilar Pendekat No. TR.107",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.107C-TD.108 = 55.73 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.75583333333333,
+          -8.348333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "100",
+        "sea": "Timor",
+        "place": "P. Masela",
+        "titik_dasar": "Titik Dasar No. TD.108",
+        "no": "No. 462",
+        "pilar_pendekat": "Pilar Pendekat No. TR.108",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.108-TD.109 = 78.22 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.82555555555555,
+          -8.224722222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "101",
+        "sea": "Timor",
+        "place": "P. Meatimiarang",
+        "titik_dasar": "Titik Dasar No. TD.109",
+        "no": "No. 461",
+        "pilar_pendekat": "Pilar Pendekat No. TR.109",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.109-TD.115",
+        "garis_pangkal": "Timor-Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.51444444444445,
+          -8.3525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "102",
+        "sea": "Timor",
+        "place": "Tg. Wetoh",
+        "titik_dasar": "Titik Dasar No. TD.115",
+        "no": "No. 459",
+        "pilar_pendekat": "Pilar Pendekat No. TR.115",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.115-TD.116 = 20.69 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.99416666666667,
+          -9.635833333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "103",
+        "sea": "Timor",
+        "place": "Tg. Batu Merah",
+        "titik_dasar": "Titik Dasar No. TD.116",
+        "no": "No. 459",
+        "pilar_pendekat": "Pilar Pendekat No. TR.116",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.116-TD.117 = 21.27 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.75,
+          -9.882777777777779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "104",
+        "sea": "Timor",
+        "place": "Tg. Haikmeo",
+        "titik_dasar": "Titik Dasar No. TD.117",
+        "no": "No. 459",
+        "pilar_pendekat": "Pilar Pendekat No. TR.117",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.117-TD.118 = 6.02 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.48305555555555,
+          -10.120555555555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "105",
+        "sea": "Timor",
+        "place": "Tg. Tunfano",
+        "titik_dasar": "Titik Dasar No. TD.118",
+        "no": "No. 459",
+        "pilar_pendekat": "Pilar Pendekat No. TR.118",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.118-TD.120 = 79.65 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.39555555555556,
+          -10.171944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "106",
+        "sea": "Hindia",
+        "place": "Tg. Puleh",
+        "titik_dasar": "Titik Dasar No. TD.120",
+        "no": "No. 458",
+        "pilar_pendekat": "Pilar Pendekat No. TR.120",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.120-TD.121 = 23.07 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.22277777777778,
+          -10.829722222222221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "107",
+        "sea": "Hindia",
+        "place": "P. Dana",
+        "titik_dasar": "Titik Dasar No. TD.121",
+        "no": "No. 458",
+        "pilar_pendekat": "Pilar Pendekat No. TR.121",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.121-TD.122 = 65.43 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.87694444444443,
+          -11.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "108",
+        "sea": "Hindia",
+        "place": "Tg. Merebu",
+        "titik_dasar": "Titik Dasar No. TD.122",
+        "no": "No. 457",
+        "pilar_pendekat": "Pilar Pendekat No. TR.122",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.122-TD.123 = 34.98 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.83749999999999,
+          -10.626944444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "109",
+        "sea": "Hindia",
+        "place": "P. Dana",
+        "titik_dasar": "Titik Dasar No. TD.123",
+        "no": "No. 457",
+        "pilar_pendekat": "Pilar Pendekat No. TR.123",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.123-TD.123A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2825,
+          -10.833333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "110",
+        "sea": "Hindia",
+        "place": "P. Dana",
+        "titik_dasar": "Titik Dasar No. TD.123A",
+        "no": "No. 457",
+        "pilar_pendekat": "Pilar Pendekat No. TR.123",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.123A-TD.124 = 57.55 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.27722222222222,
+          -10.831666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "111",
+        "sea": "Hindia",
+        "place": "Tg. Ngunju",
+        "titik_dasar": "Titik Dasar No. TD.124",
+        "no": "No. 456",
+        "pilar_pendekat": "Pilar Pendekat No. TR.124",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.124-TD.125 = 19.90 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45361111111112,
+          -10.317222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "112",
+        "sea": "Hindia",
+        "place": "P. Mangudu",
+        "titik_dasar": "Titik Dasar No. TD.125",
+        "no": "No. 456",
+        "pilar_pendekat": "Pilar Pendekat No. TR.125",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.125-TD.125A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.11722222222221,
+          -10.339444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "113",
+        "sea": "Hindia",
+        "place": "P. Mangudu",
+        "titik_dasar": "Titik Dasar No. TD.125A",
+        "no": "No. 456",
+        "pilar_pendekat": "Pilar Pendekat No. TR.125",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.125A-TD.128B = 72.43 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.09888888888888,
+          -10.335555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "114",
+        "sea": "Hindia",
+        "place": "Tg. Merapu",
+        "titik_dasar": "Titik Dasar No. TD.128B",
+        "no": "No. 455, 455",
+        "pilar_pendekat": "Pilar Pendekat No. TR.128B",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.128B-TD.128",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.05749999999999,
+          -9.698611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "115",
+        "sea": "Hindia",
+        "place": "Tg. Karoso",
+        "titik_dasar": "Titik Dasar No. TD.128",
+        "no": "No. 455, 456",
+        "pilar_pendekat": "Pilar Pendekat No. TR.128",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.128-TD.129 = 48.64 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.92472222222223,
+          -9.562777777777779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "116",
+        "sea": "Hindia",
+        "place": "Toro Doro",
+        "titik_dasar": "Titik Dasar No. TD.129",
+        "no": "No. 455",
+        "pilar_pendekat": "Pilar Pendekat No. TR.129",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.129-TD.130A = 84.56 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.46722222222222,
+          -8.889444444444443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "117",
+        "sea": "Hindia",
+        "place": "Tg. Talonan",
+        "titik_dasar": "Titik Dasar No. TD.130A",
+        "no": "No. 454",
+        "pilar_pendekat": "Pilar Pendekat No. TR.130",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.130A-TD.130 = 2.64 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05694444444444,
+          -9.104166666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "118",
+        "sea": "Hindia",
+        "place": "Tg. Talonan",
+        "titik_dasar": "Titik Dasar No. TD.130",
+        "no": "No. 454",
+        "pilar_pendekat": "Pilar Pendekat No. TR.130",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.130-TD.131 = 60.94 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.01277777777777,
+          -9.110277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "119",
+        "sea": "Hindia",
+        "place": "P. Sophialouisa",
+        "titik_dasar": "Titik Dasar No. TD.131",
+        "no": "No. 454",
+        "pilar_pendekat": "Pilar Pendekat No. TR.131",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.131-TD.133 = 25.38 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.00222222222222,
+          -8.922222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "120",
+        "sea": "Hindia",
+        "place": "Tg. Sedihing",
+        "titik_dasar": "Titik Dasar No. TD.133",
+        "no": "No. 454",
+        "pilar_pendekat": "Pilar Pendekat No. TR.133",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.133-TD.134A = 24.47 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58694444444444,
+          -8.819722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "121",
+        "sea": "Hindia",
+        "place": "Tg. Ungasan",
+        "titik_dasar": "Titik Dasar No. TD.134A",
+        "no": "No. 453",
+        "pilar_pendekat": "Pilar Pendekat No. TR.134A",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.134A-TD.134",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17555555555556,
+          -8.851666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "122",
+        "sea": "Hindia",
+        "place": "Tg. Mebulu",
+        "titik_dasar": "Titik Dasar No. TD.134",
+        "no": "No. 453",
+        "pilar_pendekat": "Pilar Pendekat No. TR.134",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.134-TD.135 = 34.75 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1086111111111,
+          -8.84888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "123",
+        "sea": "Hindia",
+        "place": "Tg. Bantenan",
+        "titik_dasar": "Titik Dasar No. TD.135",
+        "no": "No. 453",
+        "pilar_pendekat": "Pilar Pendekat No. TR.135",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.135-TD.138 = 74.98 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.52583333333334,
+          -8.787222222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "124",
+        "sea": "Hindia",
+        "place": "P. Barung",
+        "titik_dasar": "Titik Dasar No. TD.138",
+        "no": "No. 452",
+        "pilar_pendekat": "Pilar Pendekat No. TR.138",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.138-TD.139 = 94.26 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2936111111111,
+          -8.508333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "125",
+        "sea": "Hindia",
+        "place": "P. Sekel",
+        "titik_dasar": "Titik Dasar No. TD.139",
+        "no": "No. 451",
+        "pilar_pendekat": "Pilar Pendekat No. TR.139",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.139-TD.139A = 11.90 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.70861111111111,
+          -8.406666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "126",
+        "sea": "Hindia",
+        "place": "P. Panehan",
+        "titik_dasar": "Titik Dasar No. TD.139A",
+        "no": "No. 451",
+        "pilar_pendekat": "Pilar Pendekat No. TR.139",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.139A-TD.140 = 48.75 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.51138888888889,
+          -8.37138888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "127",
+        "sea": "Hindia",
+        "place": "Tg. Batur",
+        "titik_dasar": "Titik Dasar No. TD.140",
+        "no": "No. 451",
+        "pilar_pendekat": "Pilar Pendekat No. TR.140",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.140-TD.143 = 102.08 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70861111111111,
+          -8.200833333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "128",
+        "sea": "Hindia",
+        "place": "Nusakambangan",
+        "titik_dasar": "Titik Dasar No. TD.143",
+        "no": "No. 450",
+        "pilar_pendekat": "Pilar Pendekat No. TR.143",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.143-TD.144A = 36.34",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.04277777777777,
+          -7.784722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "129",
+        "sea": "Hindia",
+        "place": "Tg. Legokjawa",
+        "titik_dasar": "Titik Dasar No. TD.144A",
+        "no": "No. 449",
+        "pilar_pendekat": "Pilar Pendekat No. TR.144A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.144A-TD.144C = 6.59 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4325,
+          -7.8213888888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "130",
+        "sea": "Hindia",
+        "place": "P. Manuk",
+        "titik_dasar": "Titik Dasar No. TD.144C",
+        "no": "No. 449",
+        "pilar_pendekat": "Pilar Pendekat No. TR.144",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.144C-TD.144 = 1.38 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32166666666666,
+          -7.819722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "131",
+        "sea": "Hindia",
+        "place": "Tg. Tawulan",
+        "titik_dasar": "Titik Dasar No. TD.144",
+        "no": "No. 449",
+        "pilar_pendekat": "Pilar Pendekat No. TR.144",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.144-TD.145 = 27.50 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.29861111111111,
+          -7.8175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "132",
+        "sea": "Hindia",
+        "place": "Tg. Gedeh",
+        "titik_dasar": "Titik Dasar No. TD.145",
+        "no": "No. 449",
+        "pilar_pendekat": "Pilar Pendekat No. TR.145",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.145-TD.146 = 88.14 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.84222222222222,
+          -7.742222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "133",
+        "sea": "Hindia",
+        "place": "Ug. Genteng",
+        "titik_dasar": "Titik Dasar No. TD.146",
+        "no": "No. 448",
+        "pilar_pendekat": "Pilar Pendekat No. TR.146",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.146-TD.147 = 56.96 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4038888888889,
+          -7.388888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "134",
+        "sea": "Hindia",
+        "place": "P. Deli",
+        "titik_dasar": "Titik Dasar No. TD.147",
+        "no": "No. 448",
+        "pilar_pendekat": "Pilar Pendekat No. TR.147",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.147-TD.148A = 18.35 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.52361111111111,
+          -7.016666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "135",
+        "sea": "Hindia",
+        "place": "Karang Pabayang",
+        "titik_dasar": "Titik Dasar No. TD.148A",
+        "no": "No. 447, 448",
+        "pilar_pendekat": "Pilar Pendekat No. TR.148",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.148A-TD.148 = 1.67 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.26222222222222,
+          -6.854722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "136",
+        "sea": "Hindia",
+        "place": "Tg. Guhakolak",
+        "titik_dasar": "Titik Dasar No. TD.148",
+        "no": "No. 447, 448",
+        "pilar_pendekat": "Pilar Pendekat No. TR.148",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.148-TD.151 = 73.97 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2388888888889,
+          -6.839444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "137",
+        "sea": "Hindia",
+        "place": "P. Batukecil",
+        "titik_dasar": "Titik Dasar No. TD.151",
+        "no": "No. 447",
+        "pilar_pendekat": "Pilar Pendekat No. TR.151",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.151-TD.152 = 50.33 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.44055555555556,
+          -5.895833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "138",
+        "sea": "Hindia",
+        "place": "Ug. Walor",
+        "titik_dasar": "Titik Dasar No. TD.152",
+        "no": "No. 446",
+        "pilar_pendekat": "Pilar Pendekat No. TR.152",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.152-TD.154A = 94.80 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91583333333334,
+          -5.239444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "139",
+        "sea": "Hindia",
+        "place": "Tg. Kahoabi",
+        "titik_dasar": "Titik Dasar No. TD.154A",
+        "no": "No. 445, 446",
+        "pilar_pendekat": "Pilar Pendekat No. TR.154A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.154A-TD.154 = 5.17 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.35305555555556,
+          -5.513888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "140",
+        "sea": "Hindia",
+        "place": "Tg. Labuho",
+        "titik_dasar": "Titik Dasar No. TD.154",
+        "no": "No. 445",
+        "pilar_pendekat": "Pilar Pendekat No. TR.154",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.154-TD.154B",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.26666666666667,
+          -5.520277777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "141",
+        "sea": "Hindia",
+        "place": "Tg. Labuho",
+        "titik_dasar": "Titik Dasar No. TD.154B",
+        "no": "No. 445",
+        "pilar_pendekat": "Pilar Pendekat No. TR.154",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.154B-TD.155 = 13.09 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.245,
+          -5.508333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "142",
+        "sea": "Hindia",
+        "place": "Tg. Kooma",
+        "titik_dasar": "Titik Dasar No. TD.155",
+        "no": "No. 445",
+        "pilar_pendekat": "Pilar Pendekat No. TR.155",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.155-TD.156 = 102.15 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.08444444444444,
+          -5.359722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "143",
+        "sea": "Hindia",
+        "place": "P. Mega",
+        "titik_dasar": "Titik Dasar No. TD.156",
+        "no": "No. 444",
+        "pilar_pendekat": "Pilar Pendekat No. TR.156",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.156-TD.158 = 60.36 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.03027777777778,
+          -4.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "144",
+        "sea": "Hindia",
+        "place": "P. Sibarubaru",
+        "titik_dasar": "Titik Dasar No. TD.158",
+        "no": "No. 443, 444",
+        "pilar_pendekat": "Pilar Pendekat No. TR.158",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.158-TD.159 = 33.96 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.32972222222222,
+          -3.2966666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "145",
+        "sea": "Hindia",
+        "place": "Tg. Betumonga",
+        "titik_dasar": "Titik Dasar No. TD.159",
+        "no": "No. 443",
+        "pilar_pendekat": "Pilar Pendekat No. TR.159",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.159-TD.161 = 80.33 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.99861111111112,
+          -2.8372222222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "146",
+        "sea": "Hindia",
+        "place": "P. Sinyaunyau",
+        "titik_dasar": "Titik Dasar No. TD.161",
+        "no": "No. 442",
+        "pilar_pendekat": "Pilar Pendekat No. TR.161",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.161-TD.161B = 16.43 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0761111111111,
+          -1.8661111111111113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "sea": "Hindia",
+        "place": "Tg. Simansih",
+        "titik_dasar": "Titik Dasar No. TD.161B",
+        "no": "No. 442",
+        "pilar_pendekat": "Pilar Pendekat No. TR.161",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.161B-TD.162",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.87638888888888,
+          -1.678611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "148",
+        "sea": "Hindia",
+        "place": "Tg. Sakaladat",
+        "titik_dasar": "Titik Dasar No. TD.162",
+        "no": "No. 442",
+        "pilar_pendekat": "Pilar Pendekat No. TR.162",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.162-TD.164B = 81.46 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.60194444444444,
+          -1.2255555555555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "149",
+        "sea": "Hindia",
+        "place": "P. Simuk",
+        "titik_dasar": "Titik Dasar No. TD.164B",
+        "no": "No. 441",
+        "pilar_pendekat": "Pilar Pendekat No. TR.164",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.164B-TD.164",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.85388888888889,
+          -0.0925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "150",
+        "sea": "Hindia",
+        "place": "P. Simuk",
+        "titik_dasar": "Titik Dasar No. TD.164",
+        "no": "No. 441",
+        "pilar_pendekat": "Pilar Pendekat No. TR.164",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.164-TD.167 = 89.23 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.83527777777778,
+          -0.06805555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "sea": "Hindia",
+        "place": "P. Wunga",
+        "titik_dasar": "Titik Dasar No. TD.167",
+        "no": "No. 440",
+        "pilar_pendekat": "Pilar Pendekat No. TR.167",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.167-TD.168 = 11.59 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.08,
+          1.2130555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "sea": "Hindia",
+        "place": "Tg. Toyolawa",
+        "titik_dasar": "Titik Dasar No. TD.168",
+        "no": "No. 440",
+        "pilar_pendekat": "Pilar Pendekat No. TR.168",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.168-TD.170 = 96.15 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.06055555555555,
+          1.4052777777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "153",
+        "sea": "Hindia",
+        "place": "P. Simeulucut",
+        "titik_dasar": "Titik Dasar No. TD.170",
+        "no": "No. 439",
+        "pilar_pendekat": "Pilar Pendekat No. TR.170",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.170-TD.171 = 40.87 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.91805555555555,
+          2.529722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "sea": "Hindia",
+        "place": "P. Salaut Besar",
+        "titik_dasar": "Titik Dasar No. TD.171",
+        "no": "No. 438, 439",
+        "pilar_pendekat": "Pilar Pendekat No. TR.171",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.171-TD.171C",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.39277777777778,
+          2.964166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "155",
+        "sea": "Hindia",
+        "place": "P. Salaut Besar",
+        "titik_dasar": "Titik Dasar No. TD.171C",
+        "no": "No. 438, 439",
+        "pilar_pendekat": "Pilar Pendekat No. TR.171A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.171C-TD.174 = 113.61 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.385,
+          2.9825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "156",
+        "sea": "Hindia",
+        "place": "P. Raya",
+        "titik_dasar": "Titik Dasar No. TD.174",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.174",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.174-TD.175 = 25.87 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.36277777777777,
+          4.8758333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "157",
+        "sea": "Hindia",
+        "place": "P. Rusa",
+        "titik_dasar": "Titik Dasar No. TD.175",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.175",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.175-TD.176A = 33.89 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.20194444444445,
+          5.276111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "sea": "Hindia",
+        "place": "P. Benggala",
+        "titik_dasar": "Titik Dasar No. TD.176A",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.176A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.176A-TD.177 = 18.88 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9725,
+          5.792777777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "sea": "Hindia",
+        "place": "P. Rondo",
+        "titik_dasar": "Titik Dasar No. TD.177",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.177",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.177-TD.177A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1125,
+          6.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "160",
+        "sea": "Hindia",
+        "place": "P. Rondo",
+        "titik_dasar": "Titik Dasar No. TD.177A",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.177",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.177A-TD.178 = 16.66 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.11972222222222,
+          6.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "161",
+        "sea": "Malaka",
+        "place": "Ug. Le Meule",
+        "titik_dasar": "Titik Dasar No. TD.178",
+        "no": "No. 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.178",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.178-TD.179 = 40.63 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.33416666666666,
+          5.897222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "sea": "Malaka",
+        "place": "Ug. Pidie",
+        "titik_dasar": "Titik Dasar No. TD.179",
+        "no": "No. 436, 437",
+        "pilar_pendekat": "Pilar Pendekat No. TR.179",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.179-TD.180 = 58.07 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.88777777777779,
+          5.503333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "sea": "Malaka",
+        "place": "Ug. Peusangan",
+        "titik_dasar": "Titik Dasar No. TD.180",
+        "no": "No. 436",
+        "pilar_pendekat": "Pilar Pendekat No. TR.180",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.180-TD.181 = 39.58 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8325,
+          5.275277777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "164",
+        "sea": "Malaka",
+        "place": "Tg. Jamboaye",
+        "titik_dasar": "Titik Dasar No. TD.181",
+        "no": "No. 435, 436",
+        "pilar_pendekat": "Pilar Pendekat No. TR.181",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.181-TD.181A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.49444444444444,
+          5.251111111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "165",
+        "sea": "Malaka",
+        "place": "P. Paru Buso",
+        "titik_dasar": "Titik Dasar No. TD.181A",
+        "no": "No. 435",
+        "pilar_pendekat": "Pilar Pendekat No. TR.181",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.181A-TD.182 = 29.19 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.54833333333333,
+          5.216944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "166",
+        "sea": "Malaka",
+        "place": "Ug. Peureula",
+        "titik_dasar": "Titik Dasar No. TD.182",
+        "no": "No. 435",
+        "pilar_pendekat": "Pilar Pendekat No. TR.182",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.182-TD.183 = 35.86 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.91361111111112,
+          4.893888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "167",
+        "sea": "Malaka",
+        "place": "Ug. Tamiang",
+        "titik_dasar": "Titik Dasar No. TD.183",
+        "no": "No. 435",
+        "pilar_pendekat": "Pilar Pendekat No. TR.183",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.183-TD.184 = 82.41 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.2875,
+          4.426666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "168",
+        "sea": "Malaka",
+        "place": "P. Berhala",
+        "titik_dasar": "Titik Dasar No. TD.184",
+        "no": "No. 434",
+        "pilar_pendekat": "Pilar Pendekat No. TR.184",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.184-TD.185 = 89.42 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.50083333333333,
+          3.777222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "sea": "Malaka",
+        "place": "P. Batu Mandi",
+        "titik_dasar": "Titik Dasar No. TD.185",
+        "no": "No. 433",
+        "pilar_pendekat": "Pilar Pendekat No. TR.185",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.185-TD.186 = 76.97 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.68472222222222,
+          2.8694444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "170",
+        "sea": "Malaka",
+        "place": "Tg. Punah",
+        "titik_dasar": "Titik Dasar No. TD.186",
+        "no": "No. 432, 433",
+        "pilar_pendekat": "Pilar Pendekat No. TR.186",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.186-TD.186A = 57.08 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70833333333334,
+          2.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "171",
+        "sea": "Malaka",
+        "place": "Tg. Parit",
+        "titik_dasar": "Titik Dasar No. TD.186A",
+        "no": "No. 432",
+        "pilar_pendekat": "Pilar Pendekat No. TR.186A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.186A-TD.187 = 39.29 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.47027777777778,
+          1.524722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "172",
+        "sea": "Malaka",
+        "place": "Tg. Kedabu",
+        "titik_dasar": "Titik Dasar No. TD.187",
+        "no": "No. 432",
+        "pilar_pendekat": "Pilar Pendekat No. TR.187",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.187-TD.188 = 23.58 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.96972222222223,
+          1.1011111111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "173",
+        "sea": "Malaka",
+        "place": "P. Iyu Kecil",
+        "titik_dasar": "Titik Dasar No. TD.188",
+        "no": "No. 432",
+        "pilar_pendekat": "Pilar Pendekat No. TR.188",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.188-TD.189 = 2.67 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35222222222221,
+          1.1916666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "sea": "Malaka",
+        "place": "P. Karimun Kecil",
+        "titik_dasar": "Titik Dasar No. TD.189",
+        "no": "No. 431, 432",
+        "pilar_pendekat": "Pilar Pendekat No. TR.189",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.189-TD.190 = 15.87 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3888888888889,
+          1.1663888888888887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "175",
+        "sea": "Main",
+        "place": "P. Nipa",
+        "titik_dasar": "Titik Dasar No. TD.190",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.190",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.190-TD.190A",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65305555555557,
+          1.153611111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "176",
+        "sea": "Main",
+        "place": "P. Nipa",
+        "titik_dasar": "Titik Dasar No. TD.190A",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.190",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.190A-TD.191 = 3.00 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65583333333333,
+          1.1533333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "177",
+        "sea": "Main",
+        "place": "P. Pelampong",
+        "titik_dasar": "Titik Dasar No. TD.191",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.191",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.191-TD.191A = 4.54 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69944444444445,
+          1.1288888888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "178",
+        "sea": "Main",
+        "place": "Kr. Helen Mars",
+        "titik_dasar": "Titik Dasar No. TD.191A",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.191A",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.191A-TD.191B = 3.06 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775,
+          1.1241666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "179",
+        "sea": "Main",
+        "place": "Kr. Benteng",
+        "titik_dasar": "Titik Dasar No. TD.191B",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.191B",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.191B-TD.192 = 4.44 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81388888888888,
+          1.1572222222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "180",
+        "sea": "Singapore",
+        "place": "Batu Berhanti",
+        "titik_dasar": "Titik Dasar No. TD.192",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.192",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.192-TD.193 = 11.91 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8825,
+          1.185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "181",
+        "sea": "Singapore",
+        "place": "P. Nongsa",
+        "titik_dasar": "Titik Dasar No. TD.193",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.193",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.193-TD.194 = 18.83 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07972222222222,
+          1.2080555555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182",
+        "sea": "Singapore",
+        "place": "Tg. Sading",
+        "titik_dasar": "Titik Dasar No. TD.194",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.194",
+        "scale": "1 : 200.000",
+        "distance": "Jarak TD.194-TD.195 = 10.02 nm",
+        "garis_pangkal": "Garis Pangkal Lurus Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.39361111111111,
+          1.2044444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "183",
+        "sea": "Natuna",
+        "place": "Tg. Berakit",
+        "titik_dasar": "Titik Dasar No. TD.195",
+        "no": "No. 431",
+        "pilar_pendekat": "Pilar Pendekat No. TR.001",
+        "scale": "1 : 200.000",
+        "distance": "Antara TD.195-TD.001",
+        "garis_pangkal": "Garis Pangkal Biasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.55611111111111,
+          1.2430555555555556
+        ]
+      }
+    }
+  ]
+}

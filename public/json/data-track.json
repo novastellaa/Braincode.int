@@ -1,0 +1,91 @@
+[
+    {
+        "nama": "Ly Thai To",
+        "img": "lythaito.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    
+    {
+        "nama": "La Fayette",
+        "img": "lafayette.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "Arrow Head",
+        "img": "arrowhead.jpg",
+        "status": "Late",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "Fregat",
+        "img": "fregat.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "La Fayette",
+        "img": "lafayette.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "Arrow Head",
+        "img": "arrowhead.jpg",
+        "status": "Late",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "Fregat",
+        "img": "fregat.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    },
+    {
+        "nama": "Ly Thai To",
+        "img": "lythaito.jpg",
+        "status": "On Track",
+        "from": "Kep.Bangka Belitung",
+        "to": "KalSel",
+        "tgl": "08.00 06/06/2023 - 08.40 08/06/2023",
+        "jarak": "2091 KM",
+        "waktu": "48 40 Jam"
+
+    }
+]

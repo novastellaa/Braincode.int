@@ -1,0 +1,131 @@
+#map-container-rute  {
+    /* position: relative; */
+   
+    padding-top: 15px;
+
+  }
+  
+  #map-rute {
+    height: 400px;
+    width: 100%;
+  }
+  
+
+  .btry{
+    background: #9bec00 !important;
+    color: #ffffff !important;
+    font-family: 'jaldiBold' !important;
+    width: 100px !important;
+    height: 29px !important;
+    font-size: 0.9em !important;
+  }
+
+  .btrn{ 
+    background: #EC1C00 !important;
+    color: #ffffff !important;
+    font-family: 'jaldiBold' !important;
+    width: 100px !important;
+    height: 29px !important;
+    font-size: 0.9em !important;
+  }
+
+  option[value=""][disabled] {
+    display: none;
+  }
+
+  .dropdown{
+    position: relative;
+    display: inline-block;
+    width: 80%;
+
+}
+.dropdown::before{
+    color: #9bec00;
+    position: absolute;
+    content: "\25be";
+    top: -7px;
+    right: -8px;
+    /* height: 63px; */
+    /* width: 20px; */
+    font-size: 24px;
+}
+
+.input-container {
+  position: relative;
+  width: 100%;
+}
+
+/* Custom styles for the date input */
+.custom-date-input {
+  font-family: 'jaldiReg';
+  color: transparent; /* Make text transparent */
+  width: 100%;
+  padding: 0;
+  font-size: 0.8em;
+  border: none;
+  background: none; /* Remove default background */
+  -webkit-appearance: none; /* Remove default styling */
+  -moz-appearance: none;
+  appearance: none;
+  position: relative;
+  z-index: 2;
+}
+
+/* Placeholder styling */
+.placeholder {
+  font-family: 'jaldiReg';
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #9bec00;
+  pointer-events: none;
+  font-size: 0.8em;
+}
+
+/* When the input has a value, make the text visible */
+.custom-date-input:not(.empty) {
+  color: #9bec00;
+}
+
+/* Remove calendar icon */
+.custom-date-input::-webkit-calendar-picker-indicator {
+  position: absolute;
+  right: 10px;
+  color: transparent;
+  background: none;
+  z-index: 1;
+}
+
+  .slc{
+    font-family: 'jaldiReg';
+    font-size: 0.9em;
+    width: 85%;
+    color: #9bec00;
+    background: none;
+  }
+
+  .slcp{
+    font-family: 'jaldiReg';
+    font-size: 0.9em;
+    width: 85%;
+    color: #699BF7;
+    background: none;
+  }
+ 
+
+
+  .ipt{width: 90%;
+    height: 25px;
+    background: none !important;
+    border: 1px solid white !important;
+    border-radius: 5px;
+    font-size: 13.5px;
+    color: white;
+    padding-left: 5px;
+}
+
+::placeholder{
+  color: rgb(168, 167, 167) !important;
+  
+}

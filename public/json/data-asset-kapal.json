@@ -1,0 +1,137 @@
+[
+    {
+        "nama": "Ly Thai To",
+        "image": "/public/lythaito.jpg",
+        "dimensi": "102 x 15 x 5.3",
+        "kecepatan": "26",
+        "jarak": "5.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "SSM, SAM, AK-176, AK-630, AO-18KD, ESM/ECM, Radar Air, Surface, Sonar"
+    },
+    {
+        "nama": "HQ 13",
+        "image": "/public/fregat.jpg",
+        "dimensi": "81,8 x 9,1 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.780",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "AK-726, Torpedo, A/S Mortar, Mines, ESM, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "HQ 20",
+        "image": "/public/arrowhead.jpg",
+        "dimensi": "88 x 10 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "76 mm, Torpedo, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "Ly Thai To",
+        "image": "/public/lythaito.jpg",
+        "dimensi": "102 x 15 x 5.3",
+        "kecepatan": "26",
+        "jarak": "5.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "SSM, SAM, AK-176, AK-630, AO-18KD, ESM/ECM, Radar Air, Surface, Sonar"
+    },
+    {
+        "nama": "HQ 13",
+        "image": "/public/fregat.jpg",
+        "dimensi": "81,8 x 9,1 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.780",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "AK-726, Torpedo, A/S Mortar, Mines, ESM, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "HQ 20",
+        "image": "/public/arrowhead.jpg",
+        "dimensi": "88 x 10 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "76 mm, Torpedo, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "Ly Thai To",
+        "image": "/public/lythaito.jpg",
+        "dimensi": "102 x 15 x 5.3",
+        "kecepatan": "26",
+        "jarak": "5.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "SSM, SAM, AK-176, AK-630, AO-18KD, ESM/ECM, Radar Air, Surface, Sonar"
+    },
+    {
+        "nama": "HQ 13",
+        "image": "/public/fregat.jpg",
+        "dimensi": "81,8 x 9,1 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.780",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "AK-726, Torpedo, A/S Mortar, Mines, ESM, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "HQ 20",
+        "image": "/public/arrowhead.jpg",
+        "dimensi": "88 x 10 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "76 mm, Torpedo, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "Ly Thai To",
+        "image": "/public/lythaito.jpg",
+        "dimensi": "102 x 15 x 5.3",
+        "kecepatan": "26",
+        "jarak": "5.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "SSM, SAM, AK-176, AK-630, AO-18KD, ESM/ECM, Radar Air, Surface, Sonar"
+    },
+    {
+        "nama": "HQ 13",
+        "image": "/public/fregat.jpg",
+        "dimensi": "81,8 x 9,1 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.780",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "AK-726, Torpedo, A/S Mortar, Mines, ESM, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "HQ 20",
+        "image": "/public/arrowhead.jpg",
+        "dimensi": "88 x 10 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "76 mm, Torpedo, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "Ly Thai To",
+        "image": "/public/lythaito.jpg",
+        "dimensi": "102 x 15 x 5.3",
+        "kecepatan": "26",
+        "jarak": "5.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "SSM, SAM, AK-176, AK-630, AO-18KD, ESM/ECM, Radar Air, Surface, Sonar"
+    },
+    {
+        "nama": "HQ 13",
+        "image": "/public/fregat.jpg",
+        "dimensi": "81,8 x 9,1 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.780",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "AK-726, Torpedo, A/S Mortar, Mines, ESM, Radar Air Surface, Sonar"
+    },
+    {
+        "nama": "HQ 20",
+        "image": "/public/arrowhead.jpg",
+        "dimensi": "88 x 10 x 2,9",
+        "kecepatan": "32",
+        "jarak": "4.000",
+        "position": "3° 18' 20.8' S (-3.30578°) 117° 53' 28.4' E (117.89121°)",
+        "unit": "76 mm, Torpedo, Radar Air Surface, Sonar"
+    }
+]
